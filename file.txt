@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 feature 1 mod
 feature 1 modif
+=======
+feature 2 mod
+>>>>>>> feature2
