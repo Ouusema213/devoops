@@ -4,3 +4,4 @@ feature 1 modif
 =======
 feature 2 mod
 >>>>>>> feature2
+feature 3 modification
